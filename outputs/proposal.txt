@@ -1,0 +1,15 @@
+Freelance Proposal
+
+Hello,
+
+I can help you with this project.
+
+Based on your job description, the key skills required include:
+Python, automation, API, OpenAI, reporting, AI, workflow
+
+I have experience building Python automation tools, AI-powered workflows, reporting systems, and OpenAI API integrations.
+
+I can build a clean, practical solution that helps automate your workflow and reduce manual work.
+
+Best regards,
+Adam

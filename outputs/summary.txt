@@ -1,0 +1,12 @@
+Freelance Automation Assistant Summary
+
+Skills Found:
+Python, automation, API, OpenAI, reporting, AI, workflow
+
+Skill Count:
+7
+
+Generated Files:
+- outputs\proposal.txt
+- outputs\cover_letter.txt
+- outputs\followup.txt

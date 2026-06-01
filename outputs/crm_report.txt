@@ -1,0 +1,16 @@
+AI CRM Assistant Report
+
+CRM Summary
+===========
+
+Total Customers: 5
+New Customers: 2
+No Reply Customers: 2
+Replied Customers: 1
+High Priority Customers: 2
+
+Follow-up Tasks
+===============
+
+Follow up with TechFlow. No response received yet. Priority: medium.
+Follow up with StartupX. No response received yet. Priority: low.
